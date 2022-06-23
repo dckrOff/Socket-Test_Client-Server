@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+<!--        <domain includeSubdomains="true">https://8ae4705c-5f6a-4d52-b146-5ae73d0258cc.mock.pstmn.io</domain>-->
+<!--        <domain includeSubdomains="true">83.69.136.24</domain>-->
+        <domain includeSubdomains="true">192.168.1.106</domain>
+<!--        <domain includeSubdomains="true">192.168.1.8</domain>;-->
+    </domain-config>
+</network-security-config>
